@@ -1,0 +1,4 @@
+Name, Quadratmeter, Stadt, Balkon, Baujahr, Gesamtmiete
+Wohnung 1,8,Leipzig,false,1920,500
+Wohnung 2,80,Hamburg,true,2000,1800
+Wohnung 3,160,Berlin,false,2020,2500
